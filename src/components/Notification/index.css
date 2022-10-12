@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.notification-container{
+    display: flex;
+    border: 1px solid gray;
+    align-items: center;
+    gap: 2rem;
+    width: 100%;
+    /* max-width: 600px; */
+    border: 1px solid gray;
+    border-radius: 5px;
+    justify-content: space-between;
+    padding: 10px;
+    padding-right: 3rem;
+    /* padding-left: 1rem; */
+    /* margin-right: 3rem; */
+    gap: 2rem;
+}
+.cross-icon{
+    height: 2rem;
+    width: 2rem;
+}
